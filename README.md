@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Hi%20there,%20I'm%20Geonhwi!%20%F0%9F%91%8B&fontSize=35&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Hi%20there,%20I'm%20ghpark!%20%F0%9F%91%8B&fontSize=35&fontAlignY=40&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cloud-native+Full-stack+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;User-centric+developer+who+loves+problem+solving"/>
